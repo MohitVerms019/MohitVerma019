@@ -35,10 +35,10 @@ I am passionate about programming, software development, and learning new techno
 Learn. Code. Build. Repeat.
 
 Fun Facts
- . I don't like coffee and tea
- . Bloodhound is my favorite webseries
- . i love music 
- . Hobbies: music, movie, gym ..
+ - I don't like coffee and tea
+ - Bloodhound is my favorite webseries
+ - i love music 
+ - Hobbies: music, movie, gym ..
  
 
 Thanks for visiting my profile!
