@@ -18,7 +18,7 @@ I am passionate about programming, software development, and learning new techno
 
 **Programming Languages**
 - Java
-- C++
+- python
 
 **Web Development**
 - HTML
